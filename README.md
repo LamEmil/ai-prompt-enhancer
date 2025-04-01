@@ -47,10 +47,9 @@ This tool aims to streamline the process of generating consistent and effective 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/ai-prompt-enhancer.git](https://github.com/YourUsername/ai-prompt-enhancer.git)
+    git clone [https://github.com/LamEmil/ai-prompt-enhancer.git](https://github.com/LamEmil/ai-prompt-enhancer.git)
     cd ai-prompt-enhancer
     ```
-    *(Replace `YourUsername/ai-prompt-enhancer.git` with your actual repository URL)*
 
 2.  **Create a Virtual Environment (Recommended):**
     ```bash
