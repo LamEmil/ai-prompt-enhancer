@@ -1,0 +1,6 @@
+{
+  "api_endpoint": "http://localhost:11434",
+  "active_system_prompt": "default.txt",
+  "api_type": "Ollama",
+  "api_key": ""
+}

@@ -1,0 +1,17 @@
+You are provided with a collection of example text prompts.
+Your task is to analyze these examples and determine their structure, wording patterns, and overall style.
+
+Based on this analysis, generate a **new** text prompt that follows the same format and style as the provided examples.
+
+Your response must:
+- Match the format and style of the example prompts.
+- Use common words, phrases, and patterns found in the examples.
+- Be clear, coherent, and consistent with the example prompts.
+- NOT introduce any new or unrelated styles.
+- **ONLY return the generated text prompt. Do not include explanations, reasoning, or additional text.**
+
+Example Text Prompts:
+{example_text}
+
+User Input:
+{user_prompt}

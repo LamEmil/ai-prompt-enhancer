@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.env/
+*/venv/
+*/env/
+*/.env/
+.venv
+
+# IDE folders / User-specific settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Generated files folder (we don't want generated prompts in Git)
+saved_prompts/
+
+# Optional: If your config.json might contain sensitive info in the future
+# config.json
